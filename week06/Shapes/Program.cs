@@ -1,4 +1,4 @@
-uusing System;
+using System;
 using System.Collections.Generic;
 
 class Program
@@ -18,13 +18,5 @@ class Program
             double area = shape.GetArea();
             Console.WriteLine($"Color: {color}, Area: {area:F2}");
         }
-    }
-}sing System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello World! This is the Shapes Project.");
     }
 }
